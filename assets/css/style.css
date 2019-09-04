@@ -225,3 +225,43 @@ input[type=submit] {
         width: 220px;
     }
 }
+@media screen and (max-width: 768px) {
+    #wrapper {
+        width:730px;
+        margin: 0;
+        margin-left: 20px;
+    }
+    body {
+        font-size: 12px;
+        line-height: 28px;
+    }
+    .content {
+        width: 100%;
+    }
+    .name {
+        position: relative;
+        left: 20px;
+    }
+    #selfie {
+        width: 250px;
+        height: 250px;
+    }
+    h2 {
+        padding-left: 5%;
+    }
+    p {
+        padding: 15px 10px;
+        margin: 0;
+    }
+    #navlist {
+        position: relative;
+        right: 10px;
+        font-size: 16px;
+    }
+    .work {
+    width: 220px;
+    }
+    #portcon {
+        float: none;
+    }
+}
