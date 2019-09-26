@@ -94,7 +94,9 @@ p {
 }
 #selfie {
     float: left;
-    padding: 30px;
+    height:400px;
+    width: 500px;
+    padding: 20px;
 }
 footer {
     background: #666666;
